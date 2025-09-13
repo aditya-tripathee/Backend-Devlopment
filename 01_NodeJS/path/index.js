@@ -14,6 +14,7 @@ const filepath = path.join("college","students","CSE","data.txt");
 // path.resolve():-- resolve the 
 const resolvePath = path.resolve(filepath);
 
+
 // path.extname:-
 const extanme = path.extname(filepath);
 
