@@ -74,15 +74,23 @@ Server will run at 👉 http://localhost:5000
 📂 Project Structure
 project-name/
 │── src/
+
 │   ├── config/        # Database & config files
+
 │   ├── controllers/   # Route controllers
+
 │   ├── models/        # Mongoose models
+
 │   ├── routes/        # API routes
+
 │   ├── middlewares/   # Custom middlewares
+
 │   └── server.js      # App entry point
 │
 │── .env               # Environment variables
+
 │── package.json       # NPM dependencies
+
 │── README.md          # Documentation
 
 📡 API Endpoints
