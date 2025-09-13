@@ -59,6 +59,7 @@ fs.unlinkSync("./01_NodeJS/fs/bio.txt");
 //     if(err){
 //         console.log(err);
         
+
 //     }
 //     else{
 //         console.log("File name has been updated!");
